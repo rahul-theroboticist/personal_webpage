@@ -32,7 +32,7 @@ organizations:
 profiles:
 #  - icon: at-symbol
 #    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    # label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/Roboticist_RK/
   - icon: brands/github
