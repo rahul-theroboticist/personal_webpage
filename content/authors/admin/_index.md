@@ -219,5 +219,5 @@ bio: I am your neighbourhood robotics engineer and a freelance robotics educator
 
 I am a robotics engineer and freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
 
-I am an aspiring full-stack roboticist. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, marine robotics, continuum robotics and human-robot interaction and robotics manipulation.
+I am an aspiring full-stack roboticist with 5 years of industry work experience. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, marine robotics, continuum robotics and human-robot interaction. Lately I have been focusing on motion planning and control for robotics manipulation.
 
