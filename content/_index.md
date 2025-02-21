@@ -122,26 +122,26 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle: ""
-      text: ""
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Follow Me
-          link: https://x.com/roboticist_rk
-      autolink: true
-  # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id: 
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
-    design:
-      columns: "2"
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle: ""
+  #     text: ""
+  #     contact_links:
+  #       - icon: twitter
+  #         icon_pack: fab
+  #         name: Follow Me
+  #         link: https://x.com/roboticist_rk
+  #     autolink: true
+  # # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id: 
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: true
+  #   design:
+  #     columns: "2"
 ---
