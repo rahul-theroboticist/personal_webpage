@@ -10,6 +10,16 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      title: '📚 Background and Experience'
+      subtitle: ''
+      text: |-
+
+        I am an aspiring full-stack roboticist with 5 years of industry work experience. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, marine robotics, continuum robotics and human-robot interaction. Lately I have been focusing on motion planning and control for robotics manipulation.
+        
+    design:
+      columns: '1'
   - block: resume-experience
     content:
       username: admin
