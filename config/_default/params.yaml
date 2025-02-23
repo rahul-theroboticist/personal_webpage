@@ -62,7 +62,4 @@ features:
     url: 'https://github.com/rahul-theroboticist/personal_webpage'
     content_dir: content
     branch: main
-  avatar:
-    gravatar: true
-    shape: square
 
