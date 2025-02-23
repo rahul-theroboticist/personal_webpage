@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: "dark"
+      css_class: ""
       background:
         color: white
         image:
@@ -27,7 +27,7 @@ sections:
           caption: 'Image credit: [**SVGBackgrounds.com**](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
           filename: pattern-randomized.svg
           filters:
-            brightness: 0.5
+            brightness: 0.3
           size: cover
           position: center
           parallax: false
