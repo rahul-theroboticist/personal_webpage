@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -21,7 +21,7 @@ sections:
     design:
       css_class: ""
       background:
-        color: #ecffed
+        color: white
         image:
           # Add your image background to `assets/media/`.
           caption: 'Image credit: [**SVGBackgrounds.com**](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
