@@ -27,7 +27,7 @@ sections:
           caption: 'Image credit: [**SVGBackgrounds.com**](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
           filename: pattern-randomized.svg
           filters:
-            brightness: 0.3
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
