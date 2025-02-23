@@ -21,13 +21,13 @@ sections:
     design:
       css_class: ""
       background:
-        # color: black
+        color: #b7b7b7
         image:
           # Add your image background to `assets/media/`.
           caption: 'Image credit: [**SVGBackgrounds.com**](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
           filename: pattern-randomized.svg
           filters:
-            brightness: 0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
