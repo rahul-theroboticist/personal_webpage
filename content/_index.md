@@ -9,7 +9,7 @@ design:
   spacing: "5rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -21,16 +21,17 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        # color: black
         image:
           # Add your image background to `assets/media/`.
           caption: 'Image credit: [**SVGBackgrounds.com**](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
           filename: pattern-randomized.svg
           filters:
-            brightness: 1.0
+            brightness: 0
           size: cover
           position: center
           parallax: false
+          text_color_light: false
   - block: collection
     id: papers
     content:
