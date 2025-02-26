@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Rahul_R_Ramachandran_CV_2025.pdf
     design:
       css_class: ""
       background:
