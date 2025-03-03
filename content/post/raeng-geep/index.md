@@ -1,5 +1,5 @@
 ---
-title: Empowering Future Engineers: Volunteering at the Royal Academy of Engineering’s GEEP Bootcamp 
+title: "Empowering Future Engineers: Volunteering at the Royal Academy of Engineering’s GEEP Bootcamp" 
 summary: About the RAE's GEEP bootcamp and why I volunteered for the one-day bootcamp as a mentor representing The National Robotarium.
 date: 2025-03-02
 
