@@ -16,7 +16,11 @@ sections:
       subtitle: ''
       text: |-
 
-        I am an aspiring full-stack roboticist with 5 years of industry work experience. Since my undergraduate studies, I have been exploring the world of robotics. With a B.Tech in mechatronics engineering and MSc by research (MRes) in robotics, I had worked in different areas of robotics research namely aerial robotics, marine robotics, continuum robotics and human-robot interaction. Lately I have been focusing on motion planning and control for robotics manipulation.
+        I am an aspiring full-stack roboticist with 5 years of industry work experience. Since my undergraduate studies, I have been exploring the world of robotics.
+
+        I hold a B.Tech in Mechatronics Engineering from SRM Institute of Science and Technology, Tamil Nadu, India, and an MSc by Research (MRes) in Robotics from the University of the West of England, Bristol, UK. During my undergraduate studies, I also spent a semester abroad as a visiting research student at Tokai University, Japan.
+        
+        Over the years, I have worked in diverse areas of robotics, including aerial robotics, marine robotics, bio-inspired robotics, and human-robot interaction. Recently, my focus has shifted more towards motion planning and control for robotic manipulation.
         
     design:
       columns: '1'

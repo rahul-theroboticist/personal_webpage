@@ -166,19 +166,19 @@ work:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: Tamil
-    percent: 100
-  - name: English
-    percent: 100
-  - name: Japanese
-    percent: 40
-  - name: Hindi
-    percent: 30
-  - name: Malayalam
-    percent: 25
-  - name: Sanskrit
-    percent: 25
+# languages:
+#   - name: Tamil (Native)
+#     percent: 100
+#   - name: English (Professional)
+#     percent: 100
+#   - name: Japanese (Beginner)
+#     percent: 40
+#   - name: Hindi (Beginner)
+#     percent: 30
+#   - name: Malayalam (Beginner)
+#     percent: 25
+#   - name: Sanskrit (Beginner)
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -218,5 +218,5 @@ bio: I am your neighbourhood robotics engineer and a freelance robotics educator
 
 ## About Me
 
-I am a robotics engineer and a freelance robotics educator. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
+I am a robotics engineer and a freelance robotics educator with five years of industry experience. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
 
