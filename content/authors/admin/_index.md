@@ -46,13 +46,13 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-interests:
-  - Robot Motion planning and Control
-  - Robotics systems design
-  - Reinforcement learning 
-  - Robot Loco-manipulation
-  - Tele-supervisory human-robot systems
-  - Distributed Artificial Intelligence
+# interests:
+#   - Robot Motion planning and Control
+#   - Robotics systems design
+#   - Reinforcement learning 
+#   - Robot Loco-manipulation
+#   - Tele-supervisory human-robot systems
+#   - Distributed Artificial Intelligence
 
 education:
   - area: MSc by Research in Robotics
@@ -94,15 +94,16 @@ work:
     date_start: 2022-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include but are not limited to:
-      - Mission planning, system maintenance, and pilot for [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv)
-      - Reverse engineered the power distribution system, integrated Starlink satellite communication system and an off-the-shelf Marine DC generator with [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf) and also experienced mission planner using ASView remote control system & manual pilot for the USV
-      - Design and building specialized testrigs for various robotic systems testing
-      - Lead engineer for the robotics manipulation team 
-      - Robotics system design and prototype development for Proof-of-concept
-      - Maintenance and testing of various robotic systems
-      - Client facing discussions which includes site visits, understanding client's problems and expectations by running brainstorming sessions and workshops, technical presentations and proposal writing
-      - Actively involved in various public speaking and robots demo activities in collaboration with the outreach team
+      # Responsibilities include but are not limited to:
+      I lead the robotics manipulation team—covering everything from motion planning and control to hardware-software integration and developed a digital twin for the manipulation lab. I’ve operated and upgraded marine robots (AUVs/USVs) such as [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv) and [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf), reverse engineered critical systems, and integrated technologies like Starlink and marine generators. I also work closely with stakeholders to scope projects, write proposals to secure funding, and deliver results—completing over £1.5M in funded work and currently leading two ongoing projects.
+      # - Mission planning, system maintenance, and pilot for [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv)
+      # - Reverse engineered the power distribution system, integrated Starlink satellite communication system and an off-the-shelf Marine DC generator with [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf) and also experienced mission planner using ASView remote control system & manual pilot for the USV
+      # - Design and building specialized testrigs for various robotic systems testing
+      # - Lead engineer for the robotics manipulation team 
+      # - Robotics system design and prototype development for Proof-of-concept
+      # - Maintenance and testing of various robotic systems
+      # - Client facing discussions which includes site visits, understanding client's problems and expectations by running brainstorming sessions and workshops, technical presentations and proposal writing
+      # - Actively involved in various public speaking and robots demo activities in collaboration with the outreach team
   - position: R&D Engineer - Robotics and Autonomous Systems
     company_name: VEDA Aeronautics Pvt. Ltd.
     company_url: 'https://vedaaero.com/'
@@ -110,12 +111,13 @@ work:
     date_start: 2021-05-20
     date_end: 2022-08-11
     summary: |2-
-      Responsibilities include but are not limited to:
-      - Design and development of system level architecture for hard real-time integrated embedded systems.
-      - Implementation of Real-time object detection and recognition using deep neural networks. 
-      - Vision and GPS based Motion planning and control, development of simulation environment for the same and testing in various scenarios.
-      - Research new methodologies, suggest changes, develop software packages and execution of prototype development and testing.
-      - Literature study on monocular visual-inertial SLAM.
+      # Responsibilities include but are not limited to:
+      # - Design and development of system level architecture for hard real-time integrated embedded systems.
+      # - Implementation of Real-time object detection and recognition using deep neural networks. 
+      # - Vision and GPS based Motion planning and control, development of simulation environment for the same and testing in various scenarios.
+      # - Research new methodologies, suggest changes, develop software packages and execution of prototype development and testing.
+      # - Literature study on monocular visual-inertial SLAM.
+      Built and tested the first prototype of a multirotor interceptor drone for defense use. Developed real-time visual servoing, object detection, and tracking systems. Designed embedded system architecture and implemented GPS/vision-based motion planning for autonomous aerial robots.
   - position: Mechatronics Engineer
     company_name: MTJB Engineering Ltd.
     company_url: 'http://www.mtjb-engineering.com/'
@@ -123,14 +125,15 @@ work:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |2-
-      Responsibilities include but are not limited to:
-      - I was the Technical Lead for the project THUNDERBIRD, an innovative patented modular unmanned aerial system for use in a multitude of environments including defence, first response and construction.
-      - Redesign of the existing Thunderbird CAD drawings using SolidWorks 3D CAD software. Delivered a more modular system design. 
-      - Rapid prototyping using 3D printer.
-      - Requirements management: sourcing and procurement of electrical/electronic components.
-      - Calibration of the main sensors (compass,gyro/IMU,camera,etc.) and safety features setup.
-      - Configuration of the airframe, RC control systems and Telemetry system.
-      - System integration, verification activities and initial formal testing.
+      # Responsibilities include but are not limited to:
+      # - I was the Technical Lead for the project THUNDERBIRD, an innovative patented modular unmanned aerial system for use in a multitude of environments including defence, first response and construction.
+      # - Redesign of the existing Thunderbird CAD drawings using SolidWorks 3D CAD software. Delivered a more modular system design. 
+      # - Rapid prototyping using 3D printer.
+      # - Requirements management: sourcing and procurement of electrical/electronic components.
+      # - Calibration of the main sensors (compass,gyro/IMU,camera,etc.) and safety features setup.
+      # - Configuration of the airframe, RC control systems and Telemetry system.
+      # - System integration, verification activities and initial formal testing.
+      Redesigned CAD models and system architecture for a modular and reconfigurable multirotor vehicle (Thunderbird). Built rapid prototypes of key subsystems, sourced components, and completed software-hardware integration for the proof of concept. Conducted formal verification and validation testing.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -218,5 +221,5 @@ bio: I am your neighbourhood robotics engineer and a freelance robotics educator
 
 ## About Me
 
-I am a robotics engineer and a freelance robotics educator with five years of industry experience. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications. 
-
+<!-- I am a robotics engineer and a freelance robotics educator with five years of industry experience. I enjoy conducting user case studies and finding better solutions for existing problems in the robotics field. I'm also passionate about building end-to-end systems that integrates learning algorithms, perception, planning, and control for real-world applications.  -->
+Experienced lead robotics engineer (4+ years) specializing in dexterity and locomotion algorithms for dynamic applications.

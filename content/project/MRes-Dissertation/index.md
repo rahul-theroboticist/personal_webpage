@@ -6,9 +6,8 @@ authors: ["admin"]
 tags:
 - Human Robot Interaction
 - Machine Learning
-- Social Signals
-- Error Situations
-- ABB Yumi Robot
+- ABB Yumi Dual Arm Robot
+- User Case Study
 date: "2020-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -64,4 +63,4 @@ found that the participants show individual social signals. We therefore conclud
 from our results that humans experiencing error situations in a human-robot
 interaction show individual social signals.
 
-> Open access to the complete dissertation will be made availabe here once published in the university website.   
+<!-- > Open access to the complete dissertation will be made availabe here once published in the university website.    -->

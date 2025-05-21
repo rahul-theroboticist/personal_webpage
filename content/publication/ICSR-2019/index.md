@@ -36,9 +36,12 @@ abstract: The capability of differentiating error situations from error-free sit
 # summary: 
 
 tags: 
-  - Human-robot collaboration
-  - Faulty robots
+  - Human Robot Interaction
+  - Computer Vision
+  - Manipulation
+  - ABB YuMi Dual Arm Robot
   - Multimodal Dataset
+  - User Case Study
 
 # Display this page in the Featured widget?
 featured: true

@@ -40,6 +40,7 @@ abstract: Attentions to the bio-inspired robots are increasing dramatically in l
 tags: 
   - Continuum robotics
   - Kinematics
+  - Modelling
 
 # Display this page in the Featured widget?
 featured: false
