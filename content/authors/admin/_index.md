@@ -113,8 +113,8 @@ work:
     company_name: MTJB Engineering Ltd.
     company_url: 'http://www.mtjb-engineering.com/'
     company_logo: '![alt text](image.png)'
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-07-01
+    date_end: 2020-03-31
     summary: |2-
       Redesigned CAD models and system architecture for a modular and reconfigurable multirotor vehicle (Thunderbird). Built rapid prototypes of key subsystems, sourced components, and completed software-hardware integration for the proof of concept. Conducted formal verification and validation testing.
 
