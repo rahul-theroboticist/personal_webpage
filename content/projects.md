@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: List of projects that I have worked on during my postgraduate studies.
       filters:
         folders:
           - project

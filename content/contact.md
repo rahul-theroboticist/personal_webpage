@@ -1,10 +1,15 @@
 ---
 title: "Contact"
-type: "page"
-layout: "page"
+date: 2024-05-19
+type: "landing"
+
+design:
+  # Section spacing
+  spacing: '2rem'
+
 sections:
   - block: markdown
-    content: |
+    content: |-
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="max-w-xl mx-auto p-6 bg-white rounded-md shadow-md">
         <input type="hidden" name="form-name" value="contact">
         <p class="hidden">
