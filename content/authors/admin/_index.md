@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:your-email@example.com'
-  #   label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:rahul_ramachandran@ieee.org'
+    label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/Roboticist_RK/
   - icon: brands/github
@@ -46,7 +46,7 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-expertise:
+interests:
   - Manipulation
   - Robot Motion planning and Control
   - Robotics systems design

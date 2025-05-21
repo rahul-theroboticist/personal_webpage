@@ -22,7 +22,7 @@ main:
   - name: Blog
     url: /#news
     weight: 40
-  - name: Contact
-    url: contact/
-    weight: 50
+  # - name: Contact
+  #   url: contact/
+  #   weight: 50
 
