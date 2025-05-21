@@ -98,7 +98,7 @@ work:
     company_logo: 'https://thenationalrobotarium.com/wp-content/uploads/The-National-Robotarium.png'
     date_start: 2022-09-01
     date_end: ''
-    summary: |2-
+    summary: |1-
 #      Responsibilities include but are not limited to:
       I lead the robotics manipulation team—covering everything from motion planning and control to hardware-software integration and developed a digital twin for the manipulation lab. I’ve operated and upgraded marine robots (AUVs/USVs) such as [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv) and [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf), reverse engineered critical systems, and integrated technologies like Starlink and marine generators. I also work closely with stakeholders to scope projects, write proposals to secure funding, and deliver results—completing over £1.5M in funded work and currently leading two ongoing projects.
 
@@ -117,7 +117,7 @@ work:
     company_logo: 'https://vedaaero.com/wp-content/uploads/2024/03/logo-3.svg'
     date_start: 2021-05-20
     date_end: 2022-08-11
-    summary: |2-
+    summary: |1-
 #      Responsibilities include but are not limited to:
 #      - Design and development of system level architecture for hard real-time integrated embedded systems.
 #      - Implementation of Real-time object detection and recognition using deep neural networks. 
@@ -131,7 +131,7 @@ work:
     company_logo: '![alt text](image.png)'
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |2-
+    summary: |1-
 #      Responsibilities include but are not limited to:
 #      - I was the Technical Lead for the project THUNDERBIRD, an innovative patented modular unmanned aerial system for use in a multitude of environments including defence, first response and construction.
 #      - Redesign of the existing Thunderbird CAD drawings using SolidWorks 3D CAD software. Delivered a more modular system design. 
