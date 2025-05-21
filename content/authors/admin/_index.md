@@ -98,18 +98,8 @@ work:
     company_logo: 'https://thenationalrobotarium.com/wp-content/uploads/The-National-Robotarium.png'
     date_start: 2022-09-01
     date_end: ''
-    summary: |1-
-#      Responsibilities include but are not limited to:
+    summary: |2-
       I lead the robotics manipulation team—covering everything from motion planning and control to hardware-software integration and developed a digital twin for the manipulation lab. I’ve operated and upgraded marine robots (AUVs/USVs) such as [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv) and [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf), reverse engineered critical systems, and integrated technologies like Starlink and marine generators. I also work closely with stakeholders to scope projects, write proposals to secure funding, and deliver results—completing over £1.5M in funded work and currently leading two ongoing projects.
-
-#      - Mission planning, system maintenance, and pilot for [L3Harris IVER3 AUV](https://www.l3harris.com/all-capabilities/iver3-standard-system-auv)
-#      - Reverse engineered the power distribution system, integrated Starlink satellite communication system and an off-the-shelf Marine DC generator with [C-Enduro USV](https://www.unmannedsystemstechnology.com/wp-content/uploads/2013/11/C-Enduro-Long-Endurance-Unmanned-Surface-Vehicle.pdf) and also experienced mission planner using ASView remote control system & manual pilot for the USV
-#      - Design and building specialized testrigs for various robotic systems testing
-#      - Lead engineer for the robotics manipulation team 
-#      - Robotics system design and prototype development for Proof-of-concept
-#      - Maintenance and testing of various robotic systems
-#      - Client facing discussions which includes site visits, understanding client's problems and expectations by running brainstorming sessions and workshops, technical presentations and proposal writing
-#      - Actively involved in various public speaking and robots demo activities in collaboration with the outreach team
 
   - position: R&D Engineer - Robotics and Autonomous Systems
     company_name: VEDA Aeronautics Pvt. Ltd.
@@ -117,13 +107,7 @@ work:
     company_logo: 'https://vedaaero.com/wp-content/uploads/2024/03/logo-3.svg'
     date_start: 2021-05-20
     date_end: 2022-08-11
-    summary: |1-
-#      Responsibilities include but are not limited to:
-#      - Design and development of system level architecture for hard real-time integrated embedded systems.
-#      - Implementation of Real-time object detection and recognition using deep neural networks. 
-#      - Vision and GPS based Motion planning and control, development of simulation environment for the same and testing in various scenarios.
-#      - Research new methodologies, suggest changes, develop software packages and execution of prototype development and testing.
-#      - Literature study on monocular visual-inertial SLAM.
+    summary: |2-
       Built and tested the first prototype of a multirotor interceptor drone for defense use. Developed real-time visual servoing, object detection, and tracking systems. Designed embedded system architecture and implemented GPS/vision-based motion planning for autonomous aerial robots.
   - position: Mechatronics Engineer
     company_name: MTJB Engineering Ltd.
@@ -131,15 +115,7 @@ work:
     company_logo: '![alt text](image.png)'
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |1-
-#      Responsibilities include but are not limited to:
-#      - I was the Technical Lead for the project THUNDERBIRD, an innovative patented modular unmanned aerial system for use in a multitude of environments including defence, first response and construction.
-#      - Redesign of the existing Thunderbird CAD drawings using SolidWorks 3D CAD software. Delivered a more modular system design. 
-#      - Rapid prototyping using 3D printer.
-#      - Requirements management: sourcing and procurement of electrical/electronic components.
-#      - Calibration of the main sensors (compass,gyro/IMU,camera,etc.) and safety features setup.
-#      - Configuration of the airframe, RC control systems and Telemetry system.
-#      - System integration, verification activities and initial formal testing.
+    summary: |2-
       Redesigned CAD models and system architecture for a modular and reconfigurable multirotor vehicle (Thunderbird). Built rapid prototypes of key subsystems, sourced components, and completed software-hardware integration for the proof of concept. Conducted formal verification and validation testing.
 
 # Skills
